@@ -61,7 +61,7 @@ Build a tool that **assesses the strength of a password** based on criteria such
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PRODIGY_CS_03.git
+git clone https://github.com/Prasadsarkate/PRODIGY_CS_03.git
 
 # Navigate to folder
 cd PRODIGY_CS_03
